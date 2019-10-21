@@ -1,0 +1,29 @@
+{
+  "name": "jwtauth",
+  "version": "1.0.0",
+  "description": "Project abording the technologie JWT token.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firminofl/jwt-auth-token.git"
+  },
+  "keywords": [
+    "jwt",
+    "token",
+    "authentication"
+  ],
+  "author": "Filipe Firmino Lemos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firminofl/jwt-auth-token/issues"
+  },
+  "homepage": "https://github.com/firminofl/jwt-auth-token#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.4"
+  }
+}
